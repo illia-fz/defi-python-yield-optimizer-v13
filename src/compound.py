@@ -14,3 +14,4 @@ if __name__ == "__main__":
 # Commit 3: Adding a comment to compound.py
 # Commit 4: Adding a comment to compound.py
 # Commit 5: Adding a comment to compound.py
+# Added a note about compound interest
